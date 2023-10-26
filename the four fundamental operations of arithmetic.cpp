@@ -24,7 +24,6 @@ int main()
             printf("Invalid operator");
             break;
     }
-    //printf("%f",result);
     printf("%.2f",result);
     system("pause");
     return 0;
